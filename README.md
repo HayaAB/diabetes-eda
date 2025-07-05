@@ -12,4 +12,4 @@ This notebook contains an exploratory data analysis (EDA) of the Pima Indians Di
 [Pima Indians Diabetes Database - Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
 ## Author
-Your Name
+Haya Albhaisi
